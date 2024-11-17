@@ -1,0 +1,48 @@
+# se escribe html y se elige la :5 para estructura inicial
+# con alt + Z se acomoda el texto al tamaño de la pantalla
+# con ctrl + S se guarda
+# se selecciona, ctrl + k + c para comentar
+# se llama index al archivo principal|
+
+# ETIQUETAS
+# se abren y cierran ejemplo: <p></p>
+# con <p> hago parrafos
+# existe solo un body por cada doc html
+# <h1> es para encabezados, hasta h6 y es por orden de importancia
+# <ol> listas ordenada con nros; <li> 
+# <ul> lista ordenada con puntos; <li>
+# <span> ocupa lo que ocupa el texto
+# <target> se utiliza para abrir un link en otra pestaña SOLO PARA URL que NO SON NUESTRAS es para no perder de visra 
+
+header y footer se mantienen igual; main cambia entre paginas
+<!-- para crear un header -->
+ <head></head>
+
+<!-- le dice al navegador que lo que contiene es un menu de navegacion  -->
+<nav></nav>
+
+<!-- ppal -->
+<main></main>
+
+<!-- para cosas al costado, como anuncios -->
+<aside></aside>
+
+<!-- pie de pagina -->
+<footer></footer>
+
+<!-- para crear secciones -->
+ <section></section>
+
+ <!-- y cada seccion puede contener articulos o secciones tmb -->
+  <article></article>
+
+# CSS lenguaje de estilo que permite decorar nuestra pagina web en cascada
+en head va la conexion con css con etiqueta <link> o con link css
+ va asi: h1{
+    
+}
+
+
+body{
+    margin: 0px;
+} ##para quitar margen

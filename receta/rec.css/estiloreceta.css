@@ -1,0 +1,25 @@
+.pag{
+    color: brown;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ol{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
+header{
+    background-color: rgb(206, 178, 159);
+}
